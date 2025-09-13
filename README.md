@@ -33,13 +33,13 @@ The **AI-Powered Code Learning and Debugging Assistant** is an educational progr
 ## 🖼 Screenshots  
 
 - **Home Page / Code Input**  
-  ![Home Page Screenshot](docs/screenshots/home.png)  
+  ![Home Page Screenshot](main.png)  
 
 - **Code Analysis Results**  
-  ![Analysis Screenshot](docs/screenshots/analysis.png)  
+  ![Analysis Screenshot](main2.png)  
 
 - **Generated Exercises**  
-  ![Exercises Screenshot](docs/screenshots/exercises.png)  
+  ![Exercises Screenshot](Entire.png)  
 
 
 **URL**: https://lovable.dev/projects/99814bfd-6891-46d0-a408-94dd56d5be14
