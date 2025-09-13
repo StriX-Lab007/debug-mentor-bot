@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to the Debug-mentor-bot project - Built With the Help Of Lovable
 
 ## Project info
 
