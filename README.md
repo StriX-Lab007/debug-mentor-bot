@@ -4,6 +4,8 @@
 
 The **AI-Powered Code Learning and Debugging Assistant** is an educational programming platform that helps students and beginners **learn coding concepts, debug errors, and practice exercises interactively**.  
 
+**URL**: https://lovable.dev/projects/99814bfd-6891-46d0-a408-94dd56d5be14
+
 ### ✨ Features  
 - 🔍 **Code Analysis & Explanations**  
   - Detects syntax errors with clear messages  
@@ -18,16 +20,6 @@ The **AI-Powered Code Learning and Debugging Assistant** is an educational progr
 - 📚 **Programming Exercise Generator**  
   - Auto-generates challenges by difficulty (Easy, Medium, Hard)  
   - Provides function stubs + test cases for practice  
-
-- 🎓 **Interactive Tutorials (MVP)**  
-  - Students paste code in the editor  
-  - Instantly receive feedback and suggestions  
-  - Generate new exercises for hands-on learning  
-
-- ⚡ **Lightweight & Fast**  
-  - Powered by **Flask (Python backend)** and a **minimal frontend**  
-  - No untrusted code execution (safe AST-based static analysis only)  
-
 ---
 
 ## 🖼 Screenshots  
@@ -42,7 +34,7 @@ The **AI-Powered Code Learning and Debugging Assistant** is an educational progr
   ![Exercises Screenshot](Entire.png)  
 
 
-**URL**: https://lovable.dev/projects/99814bfd-6891-46d0-a408-94dd56d5be14
+
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/99814bfd-6891-46d0-a408-94dd56d5be14) To preview the Project
 
