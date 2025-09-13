@@ -4,7 +4,7 @@
 
 **URL**: https://lovable.dev/projects/99814bfd-6891-46d0-a408-94dd56d5be14
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/99814bfd-6891-46d0-a408-94dd56d5be14) and start prompting.
+Simply visit the [Lovable Project](https://lovable.dev/projects/99814bfd-6891-46d0-a408-94dd56d5be14) To preview the Project
 
 **Use your preferred IDE**
 
@@ -51,7 +51,3 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/99814bfd-6891-46d0-a408-94dd56d5be14) and click on Share -> Publish.
